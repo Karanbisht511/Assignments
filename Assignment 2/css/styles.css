@@ -1,0 +1,14 @@
+#header-nav{
+    background-color: gray;
+    border-radius: 0;
+    border:0;
+    width: auto;
+    height: auto;
+}
+
+#main-header{
+    text-align: left;
+    font-size: 4em;
+    color: black;
+    float:left;
+}
