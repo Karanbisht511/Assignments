@@ -1,0 +1,38 @@
+.navbar-brand{
+    font-size: 3em;
+}
+
+#nav-list{
+    margin:10px;
+}
+
+#nav-list a{
+    color: indigo;
+    text-align:center;
+}
+
+#nav-list a:hover{
+    color: khaki;
+}
+
+#nav-list .nav-link{
+    font-size: 2em;
+}
+
+#heading{
+    font-size: 4em;
+    margin-top: 20px;
+    margin-bottom: auto;
+}
+
+h2{
+    color:black
+}
+
+.topics{
+    height: auto;
+    margin:100px;
+    background-color: darkslategrey;
+    color:white;
+    padding :5px 20px;
+}
